@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restaurants>
+	<restaurant>
+		<name>기사식당</name>
+		<loc>서울시 관악구</loc>
+		<menus>
+			<menu>
+				<type>면</type>
+				<menu_name>우동</menu_name>
+				<price>10000</price>
+			</menu>
+			<menu>
+				<type>백반</type>
+				<menu_name>불고기백반</menu_name>
+				<price>20000</price>
+			</menu>
+			<menu>
+				<type>고기</type>
+				<menu_name>삼겹살</menu_name>
+				<price>15000</price>
+			</menu>
+		</menus>
+	</restaurant>
+</restaurants>

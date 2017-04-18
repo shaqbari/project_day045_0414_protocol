@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<members> <!---xml을 사용자정의 태그라한다. 태그명을 개발자 마음대로 정할 수 있다.-->
+	<member>
+		<name>이긍열</name>
+		<gender>남</gender>
+		<age>23</age>
+		<married>false</married>
+		<pets>
+			<pet>
+				<type>고양이</type>
+				<name>나비</name>
+				<age>3</age>
+			</pet>
+			<pet>
+				<type>강아지</type>
+				<name>뽀삐</name>
+				<age>5</age>
+			</pet>
+		</pets>
+	</member>
+</members>
